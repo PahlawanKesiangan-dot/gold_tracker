@@ -1,0 +1,1 @@
+pertama kalian install semua requirements dengan cara pip install ... (requirements), tinggal jalankan di terminal dengan ketik streamlit run app_emas.py
