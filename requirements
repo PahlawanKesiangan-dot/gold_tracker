@@ -1,7 +1,0 @@
-file/syarat yang dibutuhkan:
-pip install streamlit
-pip install requests
-pip install pandas
-jalankan itu semua di terminal VS Code.
-setelah semua terpenuhi, run di terminal dengan perintah 
-streamlit run app_emas.py
